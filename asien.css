@@ -8,12 +8,25 @@ body{
     background-size: cover;
     height: 1000 px;
 }
-
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
 #rubrik1{
     color: #f8fad7;
 }
 p{
-    color: yellow;
+    color: aqua;
+}
+i{
+    font-size: x-small;
+}
+h1{
+    margin-left: 50%;
+}
+.höger{
+    margin-left: 39%;
+
 }
 main{
     height: 1000px;
