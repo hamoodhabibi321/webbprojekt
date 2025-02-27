@@ -16,24 +16,36 @@ body{
 #rubrik1{
     color: #f8fad7;
 }
-p{
-    color: aqua;
-}
+
 i{
-    font-size: x-small;
-}
-h1{
-    margin-left: 25%;
+    font-size: small;
 }
 
+
 main{
-    height: 800px;
-    width: 1000px;
+    height: 1000px;
+    width: 2750px;
     outline-style: solid;
     outline-color: black;
     border-radius: 2px solid black;
     background-color: #ebdab4;
     margin-left: 100px;
+    margin-right: 100px;
     margin-top: 50px;
     margin-bottom: 50px;
+}
+#mittenlista{
+    font: bold;
+    font-size: x-large;
+    width: 200px;
+}
+#mitten{
+    background-color: #ebdab4;
+    height: 25%;
+    margin-top: 2%;
+    outline: solid black;
+}
+#asien{
+    font-size: 50px;
+    margin-left: 20%;
 }
